@@ -1,1 +1,1 @@
-# SingleChannel
+# 单通道低压蜂鸣器报警RS232
